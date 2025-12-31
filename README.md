@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=00FFCC&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Software+Engineer+%7C+Pentester;IoT+%26+Network+Security;Bug+Hunter+%7C+Code+Breaker" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
