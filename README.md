@@ -1,40 +1,5 @@
 <!-- ================= CYBER ANIMATED README ================= -->
-<!-- ================= MATRIX RAIN HEADER ================= -->
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-    width="100%"
-    height="260"
-  />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=JetBrains+Mono
-    &size=28
-    &duration=2200
-    &pause=800
-    &color=39FF14
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=VINAYAK+HEGDE;Cyber+Security+Enthusiast;Software+Engineer+%7C+Pentester;IoT+%26+Network+Security+Explorer;Bug+Hunter+%7C+Code+Breaker" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=JetBrains+Mono
-    &size=16
-    &duration=1000
-    &pause=400
-    &color=00FFCC
-    &center=true
-    &vCenter=true
-    &width=700
-    &lines=$+initializing+cyber+profile...;$+loading+modules...;$+access+granted+✔" />
-</p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001f1f,100:003333&height=120&section=header&text=VINAYAK%20HEGDE&fontSize=48&fontColor=00ffcc&animation=fadeIn" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=00FFCC&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Software+Engineer+%7C+Pentester;IoT+%26+Network+Security+Explorer;Bug+Hunter+%7C+Code+Breaker" /> </p>
 
 <div align="center">
 
