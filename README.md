@@ -88,7 +88,7 @@ $ status
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,firebase,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgresql" />
 </p>
 
 <p align="center">
@@ -101,47 +101,7 @@ $ status
 
 ---
 
-## 📊 GITHUB STATS
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinayak-hegde&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00ffcc&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-hegde&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00ffcc&title_color=00ffcc&text_color=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak-hegde&theme=chartreuse-dark&background=000000&border=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayak-hegde&theme=react-dark&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&border_color=00ffcc"/>
-</p>
-
----
-
-## 🏆 TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinayak-hegde&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1&column=7"/>
-</p>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-```ascii
-┌─────────────────────────────────────────────────────────┐
-│              >> FEATURED REPOSITORIES <<                │
-└─────────────────────────────────────────────────────────┘
-```
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayak-hegde&repo=PROJECT_NAME_1&theme=chartreuse-dark&border_color=00ffcc&bg_color=000000&title_color=00ffcc&icon_color=00ffcc)](https://github.com/vinayak-hegde/PROJECT_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayak-hegde&repo=PROJECT_NAME_2&theme=chartreuse-dark&border_color=00ffcc&bg_color=000000&title_color=00ffcc&icon_color=00ffcc)](https://github.com/vinayak-hegde/PROJECT_NAME_2)
-
-</div>
-
----
 
 ## 🎯 CURRENT GOALS
 
@@ -158,23 +118,13 @@ $ cat /var/log/missions.txt
 
 [IN PROGRESS] ═══════════════════════════════════════════════
 ├─> [████████████░░░░░░░░] 65% Web Security Mastery
-├─> [███████████████░░░░░] 80% Mobile App Development
+├─> [██████████░░░░░] 80% Mobile App Development
 ├─> [██████████░░░░░░░░░░] 55% Machine Learning Projects
 └─> [████████████████░░░░] 85% IoT Security Research
 ```
 
 ---
 
-## 💭 HACKER WISDOM
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  "Security is not a product, but a process."             ║
-║                                      - Bruce Schneier     ║
-╚═══════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -219,5 +169,5 @@ $ echo "Open for collaborations, security discussions, and innovative projects!"
 </p>
 
 <p align="center">
-  <b>⚡ Cyber Security • Software Engineering • IoT Security ⚡</b>
+  <b>⚡ Cyber Security • Software Engineering  ⚡</b>
 </p>
