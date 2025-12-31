@@ -1,11 +1,10 @@
 <!-- ================= CYBER ANIMATED README ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffcc,50:00cc99,100:006666&height=120&section=header&text=VINAYAK%20HEGDE&fontSize=48&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001f1f,100:003333&height=120&section=header&text=VINAYAK%20HEGDE&fontSize=48&fontColor=00ffcc&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Software+Engineer+%7C+Pentester;IoT+%26+Network+Security;Bug+Hunter+%7C+Code+Breaker" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=00FFCC&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Software+Engineer+%7C+Pentester;IoT+%26+Network+Security;Bug+Hunter+%7C+Code+Breaker" />
 </p>
 
 <p align="center">
@@ -14,11 +13,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/vinayak-shrikrishna-hegde-60b366282/)
-[![Email](https://img.shields.io/badge/Email-00ffcc?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:vinuuhegde@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00ffcc?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Vinuhegde887)
-
-![Profile Views](https://komarev.com/ghpvc/?username=vinayak-hegde&style=for-the-badge&color=00ffcc&label=INTRUSIONS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinayak-shrikrishna-hegde-60b366282/)
+[![Email](https://img.shields.io/badge/Email-00ffcc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vinuuhegde@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Vinuhegde887)
 
 </div>
 
@@ -26,68 +23,154 @@
 
 ## 🕶️ WHOAMI
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=39FF14&center=true&vCenter=true&width=1000&lines=$+whoami;$+id;$+cat+profile.txt;$+echo+$INTERESTS;$+status" />
-</p>
-
 ```bash
+$ whoami
 vinayak_hegde
 
-uid=1337(vinayak) gid=1337(security) groups=security,sudo
+$ id
+uid=1337(vinayak) gid=1337(security) groups=1337(security),27(sudo)
 
+$ cat profile.txt
 Name: Vinayak Hegde
 Location: Karnataka, India 🇮🇳
 Role: Software Engineer | Security Researcher
 Focus: Cyber Security • IoT • Network Analysis
 
-Interests:
+$ echo $INTERESTS
 Penetration Testing | Web Security | Mobile Development
 Machine Learning | IoT Security | Network Analysis
+Breaking things legally... then securing them! 🔓
 
-Status:
-[ONLINE] Injecting payloads & securing systems 🎯
-<p align="center"> <img src="https://i.imgur.com/8MupZHY.gif" width="700"/> </p>
-🔐 CYBER TOOLKIT
-ascii
-Copy code
+$ status
+[ONLINE] Currently hunting bugs and building secure applications 🎯
+```
+
+---
+
+## 🔐 CYBER TOOLKIT
+
+```ascii
 ╔══════════════════════════════════════════════════════════╗
 ║                  PENETRATION TESTING ARSENAL              ║
 ╠══════════════════════════════════════════════════════════╣
-║  [✓] Nmap           [✓] Burp Suite      [✓] Metasploit   ║
-║  [✓] Wireshark      [✓] OWASP ZAP       [✓] SQLMap       ║
-║  [✓] Nikto          [✓] Hydra           [✓] Gobuster     ║
-║  [✓] Netcat         [✓] JohnTheRipper   [✓] Aircrack-ng  ║
+║  [√] Nmap           [√] Burp Suite      [√] Metasploit  ║
+║  [√] Wireshark      [√] OWASP ZAP       [√] SQLMap      ║
+║  [√] Nikto          [√] Hydra           [√] Gobuster    ║
+║  [√] Netcat         [√] John The Ripper [√] Aircrack-ng ║
 ╚══════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=00ffcc)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 </div>
-💻 TECHNOLOGIES
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,c,cpp,bash,html,css" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgresql" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32" /> </p>
-🎯 CURRENT GOALS
 
-[ ACTIVE MISSIONS ]
-✔ Advanced Penetration Testing
-✔ Bug Bounty & Security Research
-✔ Secure IoT Systems
-✔ Network Defense & Optimization
-✔ Cloud & App Security
+**Specializations:**
+- 🕵️ Web Application Penetration Testing
+- 🌐 Network Security Assessment & Traffic Analysis
+- 🔍 Vulnerability Assessment & Exploitation
+- 🛡️ SQL Injection | XSS | CSRF | RCE
+- 📡 Wireless Security & IoT Security
+- 🔧 Security Automation & Scripting
 
-Progress:
-████████████░░░░  70% Web Security
-██████░░░░░  40% Mobile Apps
-██████████████░░  60% IoT 
-📬 CONNECT WITH ME
+---
+
+## 💻 TECHNOLOGIES
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,bash,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgresql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,unity" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+---
+
+## 🎯 CURRENT GOALS
+
+```bash
+$ cat /var/log/missions.txt
+
+[ACTIVE MISSIONS] ═══════════════════════════════════════════
+├─> Mastering Advanced Penetration Testing Techniques
+├─> Contributing to Bug Bounty Programs & Security Research
+├─> Building Secure IoT Systems & Protocols
+├─> Optimizing Network Security & Infrastructure
+├─> Developing Cloud & Application Security Solutions
+└─> Pursuing Certifications: CEH | OSCP | Cloud Security
+
+[IN PROGRESS] ═══════════════════════════════════════════════
+├─> [████████████░░░░░░░░] 65% Web Security Mastery
+├─> [███████░░░░░] 30% Mobile App Development
+├─> [███████░░░░░░░░░░] 30% Machine Learning Projects
+└─> [█████████░░░░] 50% IoT Security Research
+```
+
+---
+
+## 💭 HACKER WISDOM
+
 <div align="center">
 
-
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║  "Security is not a product, but a process."             ║
+║                                      - Bruce Schneier     ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
+
+## 📬 CONNECT WITH ME
+
 <div align="center">
 
+```bash
+$ netcat -v vinayak.dev 443
+Connection established. Select protocol:
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinayak-shrikrishna-hegde-60b366282/)
+[![Email](https://img.shields.io/badge/Email-Message-00ffcc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vinuuhegde@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vinayak-hegde)
+
+
+```bash
+$ echo "Open for collaborations, security discussions, and innovative projects!"
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
 ┌───────────────────────────────────────────────────────────┐
-│  "Hack to learn. Secure to protect." 🔐                   │
+│  "In code we trust, but we always verify... and test 🔐" │
 └───────────────────────────────────────────────────────────┘
-🔥 Vinayak Hegde | Cyber Security • Software • IoT 🔥
+```
 
-</div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:00cc99,100:006666&height=100&section=footer"/> </p> ```
+**🔥 Crafted with 💚 by Vinayak Hegde | Powered by ☕ and 🐧 Linux**
+
+</div>
+<p align="center">
+  <b>⚡ Cyber Security • Software Engineering • IoT Security ⚡</b>
+</p>
